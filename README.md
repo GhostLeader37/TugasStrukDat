@@ -1,5 +1,6 @@
 # TugasStrukDat
 Game Struktur Data tentang Kehidupan Kampus
+
 Nama Kelompok
 1. Sadewa - 201910370311084
 2. Fajrul Ikram M.U - 201910370311099
